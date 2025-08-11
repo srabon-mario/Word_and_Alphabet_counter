@@ -6,6 +6,7 @@ Author - Srabon D Costa.
 Word & Alphabet Counter
 
 A simple Python mini-project that counts:
+
 Number of words in a sentence
 Number of alphabetic characters in a sentence
 
